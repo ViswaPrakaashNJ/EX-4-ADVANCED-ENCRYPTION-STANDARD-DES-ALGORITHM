@@ -47,8 +47,9 @@ return 0;
 }
 ```
 ## OUTPUT:
+![Screenshot 2024-10-16 134521](https://github.com/user-attachments/assets/3f1fabe5-49b3-4fd2-89df-71a6c6cc18fe)
 
-![image](https://github.com/user-attachments/assets/59adc0fe-b396-448f-b59f-5052af1191b5)
+
 
 
 ## RESULT: 
